@@ -1,9 +1,9 @@
 <?php
 
   // set variables
-  $zones = 2;
-  $adults = 2;
-  $bicycles = 1;
+  $zones = 9;
+  $adults = 0;
+  $bicycles = 0;
 
   /********** Calculation ***************/
   switch ($zones) {
