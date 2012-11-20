@@ -1,0 +1,216 @@
+<?php
+header('Content-type: application/json');
+?>
+{
+    "products": [{
+        "id": 2080,
+        "duration": -1,
+        "price": 14500,
+        "name": "Klippekort",
+        "currency": 0
+    }, {
+        "id": 2067,
+        "duration": 4335,
+        "price": 9500,
+        "name": "City Pass 72 barn",
+        "currency": 0
+    }, {
+        "id": 2066,
+        "duration": 1440,
+        "price": 4000,
+        "name": "City Pass 24 barn",
+        "currency": 0
+    }, {
+        "id": 2065,
+        "duration": 4335,
+        "price": 19000,
+        "name": "City Pass 72",
+        "currency": 0
+    }, {
+        "id": 2064,
+        "duration": 1440,
+        "price": 7500,
+        "name": "City Pass 24",
+        "currency": 0
+    }, {
+        "id": 2063,
+        "duration": 1455,
+        "price": 6500,
+        "name": "24 timersbillet barn",
+        "currency": 0
+    }, {
+        "id": 2062,
+        "duration": 1440,
+        "price": 13000,
+        "name": "24 timersbillet voksen",
+        "currency": 0
+    }, {
+        "id": 2061,
+        "duration": 1440,
+        "price": 4500,
+        "name": "DSB 1' tillæg",
+        "currency": 0
+    }, {
+        "id": 2060,
+        "duration": 135,
+        "price": 1200,
+        "name": "Cykelbillet",
+        "currency": 0
+    }, {
+        "id": 2019,
+        "duration": 135,
+        "price": 6000,
+        "name": "9 zoner barn",
+        "pricePerPayment": {
+            "10": 5
+        },
+        "currency": 0
+    }, {
+        "id": 2018,
+        "duration": 135,
+        "price": 4800,
+        "name": "8 zoner barn",
+        "pricePerPayment": {
+            "10": 4
+        },
+        "currency": 0
+    }, {
+        "id": 2017,
+        "duration": 135,
+        "price": 4800,
+        "name": "7 zoner barn",
+        "pricePerPayment": {
+            "10": 4
+        },
+        "currency": 0
+    }, {
+        "id": 2016,
+        "duration": 105,
+        "price": 3600,
+        "name": "6 zoner barn",
+        "pricePerPayment": {
+            "10": 3
+        },
+        "currency": 0
+    }, {
+        "id": 2015,
+        "duration": 105,
+        "price": 3600,
+        "name": "5 zoner barn",
+        "pricePerPayment": {
+            "10": 3
+        },
+        "currency": 0
+    }, {
+        "id": 2014,
+        "duration": 105,
+        "price": 2400,
+        "name": "4 zoner barn",
+        "pricePerPayment": {
+            "10": 2
+        },
+        "currency": 0
+    }, {
+        "id": 2013,
+        "duration": 75,
+        "price": 2400,
+        "name": "3 zoner barn",
+        "pricePerPayment": {
+            "10": 2
+        },
+        "currency": 0
+    }, {
+        "id": 2012,
+        "duration": 75,
+        "price": 1200,
+        "name": "2 zoner barn",
+        "pricePerPayment": {
+            "10": 1
+        },
+        "currency": 0
+    }, {
+        "id": 2011,
+        "duration": 75,
+        "price": 1200,
+        "name": "1 zone barn",
+        "currency": 0
+    }, {
+        "id": 2009,
+        "duration": 135,
+        "price": 10800,
+        "name": "9 zoner voksen",
+        "pricePerPayment": {
+            "10": 9
+        },
+        "currency": 0
+    }, {
+        "id": 2008,
+        "duration": 135,
+        "price": 9600,
+        "name": "8 zoner voksen",
+        "pricePerPayment": {
+            "10": 8
+        },
+        "currency": 0
+    }, {
+        "id": 2007,
+        "duration": 135,
+        "price": 8400,
+        "name": "7 zoner voksen",
+        "pricePerPayment": {
+            "10": 7
+        },
+        "currency": 0
+    }, {
+        "id": 2006,
+        "duration": 105,
+        "price": 7200,
+        "name": "6 zoner voksen",
+        "pricePerPayment": {
+            "10": 6
+        },
+        "currency": 0
+    }, {
+        "id": 2005,
+        "duration": 105,
+        "price": 6000,
+        "name": "5 zoner voksen",
+        "pricePerPayment": {
+            "10": 5
+        },
+        "currency": 0
+    }, {
+        "id": 2004,
+        "duration": 105,
+        "price": 4800,
+        "name": "4 zoner voksen",
+        "pricePerPayment": {
+            "10": 4
+        },
+        "currency": 0
+    }, {
+        "id": 2003,
+        "duration": 75,
+        "price": 3600,
+        "name": "3 zoner voksen",
+        "pricePerPayment": {
+            "10": 3
+        },
+        "currency": 0
+    }, {
+        "id": 2002,
+        "duration": 75,
+        "price": 2400,
+        "name": "2 zoner voksen",
+        "pricePerPayment": {
+            "10": 2
+        },
+        "currency": 0
+    }, {
+        "id": 2001,
+        "duration": 75,
+        "price": 1200,
+        "name": "1 zone voksen",
+        "currency": 0
+    }]
+}
