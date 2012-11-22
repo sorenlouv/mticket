@@ -4,7 +4,7 @@ header('Content-type: application/json');
 {
     "vouchers": [{
         "validTo": 1367532000,
-        "amount": 20,
-        "balance": 16
+        "amount": 40,
+        "balance": 38
     }]
 }

@@ -29,7 +29,7 @@ include("config.php");
             "TICKET_DELIVERY_MODE": "1",
             "internal_order_id": "14",
             "POOL_ID": "1",
-            "startzone": "1",
+            "startzone": "<?php echo $startZone; ?>",
             "multiple.ticket.parameter": "&adults=<?php echo $adults ?>&children=0&bicycles=<?php echo $bicycles ?>&youths=0&seniors=0",
             "platform_api": "16"
         },
